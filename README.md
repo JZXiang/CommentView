@@ -1,5 +1,6 @@
 # CommentView
-test project
+test project  
+自定义ViewGroup(高度不同的列表)
 
 MIT License
 -------
